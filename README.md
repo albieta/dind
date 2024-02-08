@@ -1,0 +1,1 @@
+K8s pod configuration files for docker out of docker and docker in docker :)
